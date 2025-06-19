@@ -1,0 +1,2939 @@
+{
+    "cache_schedule": {
+        "num_blocks": 28,
+        "num_inference_steps": 20,
+        "name": "middle_cache_ff_evenly_spaced_affected_015_affected_steps_019",
+        "attributes": {
+            "num_affected_blocks": 15,
+            "num_affected_steps": 19
+        },
+        "schedule": {
+            "000": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "001": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "002": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "003": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "004": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "005": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "006": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "007": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "008": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "009": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "010": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "011": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "012": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "013": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "014": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "015": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "016": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "017": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "018": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            },
+            "019": {
+                "0": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "1": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "2": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "3": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "4": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "5": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "6": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "7": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "8": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "9": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "10": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "11": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "12": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "13": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "14": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "15": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "16": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "17": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "18": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "19": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "20": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "21": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": false
+                },
+                "22": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "23": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "24": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "25": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "26": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                },
+                "27": {
+                    "attn1": true,
+                    "attn2": true,
+                    "ff": true
+                }
+            }
+        }
+    },
+    "metrics": {
+        "by_inference_step": {
+            "000": {
+                "flops": 571581041148,
+                "macs": 285689806848
+            },
+            "001": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "002": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "003": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "004": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "005": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "006": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "007": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "008": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "009": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "010": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "011": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "012": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "013": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "014": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "015": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "016": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "017": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "018": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            },
+            "019": {
+                "flops": 408471112188,
+                "macs": 204152537088
+            }
+        },
+        "total_flops": 8332532172720,
+        "total_macs": 4164588011520
+    }
+}

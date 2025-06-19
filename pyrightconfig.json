@@ -1,0 +1,8 @@
+{
+  "include": ["ecad"],
+  "typeCheckingMode": "standard",
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportMissingTypeStubs": "warning",
+  "reportArgumentType": "warning"
+}
